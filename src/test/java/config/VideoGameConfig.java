@@ -19,9 +19,5 @@ public class VideoGameConfig {
                 .addFilter(new RequestLoggingFilter())
                 .addFilter(new ResponseLoggingFilter())
                 .build();
-        RestAssured.responseSpecification = new ResponseSpecBuilder()
-                .expectStatusCode(200)
-                .build();
-
     }
 }

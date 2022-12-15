@@ -7,8 +7,8 @@ Following this Udemy Course:[rest-assured-fundamentals](https://www.udemy.com/co
 API use: [VideoGame API](https://www.videogamedb.uk/swagger-ui/index.html )
 
 ## Branches links
-* [Initial]()
-* [Basic Get/post]()
+* Initial(see master branch)
+* Basic Get/post(see basicGetPost branc)
 
 
 ## Tools used 
